@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm Ansab 🏔️
 
-<!--
-**mo-ansab/mo-ansab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ethical Hacking | Cybersecurity 
 
-Here are some ideas to get you started:
+I'm passionate about offensive security, automation. I believe in learning by doing and sharing what I learn with the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Projects
+
+🔍 [XRecon](https://github.com/mo-ansab/XRecon) — A lightweight subdomain recon tool using assetfinder, subfinder, amass, and httpx.
+
+---
+
+## 🧰 Tech & Tools
+
+- 💻 Bash, Python
+- ☁️ VPS, Tmux, Git, Linux (Kali/Parrot))
+
+---
+
+## 🙌 Thanks for visiting my profile, stay curious and keep hacking.
