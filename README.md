@@ -2,7 +2,7 @@
 
 Ethical Hacking | Cybersecurity 
 
-I'm passionate about offensive security, automation. I believe in learning by doing and sharing what I learn with the community.
+I'm passionate about offensive security. I believe in learning by doing and sharing what I learn with the community.
 
 ---
 
